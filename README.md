@@ -36,7 +36,7 @@ pip install stem colorama pyfiglet
 2. Open a terminal and navigate to the script's directory.
 3. Run the script using Python:
    ```bash
-   python tor_proxy_tool.py
+   python keepanon.py
    ```
 4. Follow the on-screen instructions to select a mode:
    - **Option 1**: TOR Mode
